@@ -1,0 +1,6 @@
+function roomsPage() {
+    return {
+    
+    };
+  }
+  
